@@ -1,0 +1,32 @@
+{
+  "name": "angular-material-tabs-rtl",
+  "homepage": "https://github.com/Chukatuk/material",
+  "authors": [
+    "alex@marvilix.com"
+  ],
+  "dependencies": {
+    "angular": "^1.4.8",
+    "angular-animate": "^1.4.8",
+    "angular-aria": "^1.4.8",
+    "angular-messages": "^1.4.8"
+  },
+  "description": "An angular material (1.1.4) fork with working tabs on mobile rtl",
+  "main": [
+    "angular-material.js",
+    "angular-material.css"
+   ],
+    "keywords": [
+    "angular",
+    "materia",
+    "tabs",
+    "rtl"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
